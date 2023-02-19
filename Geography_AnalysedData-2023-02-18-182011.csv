@@ -1,0 +1,6 @@
+geo,count_distinct_total_geo
+airports,10356
+manhattan,10356
+manhattan_hub,10356
+outer_boroughs_ex_airports,10356
+total,10356
